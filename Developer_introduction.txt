@@ -1,3 +1,6 @@
-Jinhan Han- Urging Software engineer internship - Computational mathematics, San jose State university
+Jinhan Han- Urging Software engineer internship 
+
+Computational mathematics, San jose State university
+
 This is Advanced Python programming -Application of data strucure with python
 My Linked In - https://www.linkedin.com/in/jinhan-jeremy-han/
