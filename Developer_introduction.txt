@@ -3,5 +3,5 @@ Jinhan Han- Urging Software engineer internship opportunities
 Computational mathematics, San jose State University
 Minor: computer science
 
-This is Advanced Python programming -Application of data strucure with python
+This is Advanced Python programming -Application of data strucure data analysis with python
 My Linked In - https://www.linkedin.com/in/jinhan-jeremy-han/
