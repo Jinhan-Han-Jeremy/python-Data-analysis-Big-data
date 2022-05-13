@@ -6,6 +6,6 @@ This code analyzed and summarized weather big data from 1950 ~ 2020 concentratin
 
 
 - In pandas and its application/pandas and its application/pandas and its application.ipynb,<br />
-This code analyzed time complexity each algorithms with number, count, cumulative variables and fibonachi
+This code analyzed time complexity each algorithms with given algorithm sources and fibonachi algorithms
 
 
